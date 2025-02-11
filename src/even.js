@@ -7,7 +7,6 @@ const gameEvenOrOdd = () => {
   console.log(`Hello, ${name}!`);
   console.log(`Answer "yes" if the number is even, otherwise answer "no".`);
 
-  let correctAnswers = 0;
   for (let i = 0; i < 3; i += 1) {
     const number = getRandomNember();
     const isEven = number % 2 === 0;
@@ -15,10 +14,8 @@ const gameEvenOrOdd = () => {
 
     if (isEven && userAnswer === "yes") {
       console.log("Correct!");
-      correctAnswers += 1;
     } else if (!isEven && userAnswer === "no") {
       console.log("Correct!");
-      correctAnswers += 1;
     } else {
       if (userAnswer === "yes") {
         console.log(
