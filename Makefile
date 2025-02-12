@@ -12,3 +12,6 @@ lint: #Запуск npx eslint .
 
 brain-even: #Запуск игры с четностью
 		node bin/brain-even.js
+
+brain-calc: #Запуск игры с вычислениями
+		node bin/brain-calc.js
