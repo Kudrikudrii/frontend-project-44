@@ -1,6 +1,5 @@
 import readlineSync from "readline-sync";
-
-const getRandomNember = () => Math.floor(Math.random() * 100) + 1;
+import getRandomNumber from "./getRandomNumber.js";
 
 const gameEvenOrOdd = () => {
   const name = readlineSync.question("May I have your name? ");
@@ -8,9 +7,11 @@ const gameEvenOrOdd = () => {
   console.log(`Answer "yes" if the number is even, otherwise answer "no".`);
 
   for (let i = 0; i < 3; i += 1) {
-    const number = getRandomNember();
+    const number = getRandomNumber(1, 10);
     const isEven = number % 2 === 0;
-    const userAnswer = readlineSync.question(`Question: ${number} `);
+    const userAnswer = readlineSync.question(
+      `Question: ${number}\nYour answer: `
+    );
 
     if (isEven && userAnswer === "yes") {
       console.log("Correct!");
