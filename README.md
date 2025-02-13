@@ -8,4 +8,4 @@
 
 ### Asclinema for BRAIN-EVEN:
 
-[![Asciinema recording](https://asciinema.org/a/bZiBIRexO19FZ1ZEBBuRilrNq.svg)](https://asciinema.org/a/bZiBIRexO19FZ1ZEBBuRilrNq)
+[![Asciinema recording](https://asciinema.org/a/Chnu4nskqdZGfyeKDNxSw6W67.svg)](https://asciinema.org/a/Chnu4nskqdZGfyeKDNxSw6W67)
