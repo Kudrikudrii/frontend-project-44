@@ -15,3 +15,6 @@ brain-even: #Запуск игры с четностью
 
 brain-calc: #Запуск игры с вычислениями
 		node bin/brain-calc.js
+
+brain-gcd: #Запуск игры с поиском наибольшего общего делителя
+		node bin/brain-gcd.js
