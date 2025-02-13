@@ -13,3 +13,7 @@
 ### Asclinema for BRAIN-CALC:
 
 [![Asciinema recording](https://asciinema.org/a/mOipi8ZFhz8g4OyEADz2cAJcg.png)](https://asciinema.org/a/mOipi8ZFhz8g4OyEADz2cAJcg)
+
+### Asclinema for BRAIN-GCD:
+
+[![Asciinema recording](https://asciinema.org/a/HAokizdjw9ToHZ09vmKZxaVqe.png)](https://asciinema.org/a/HAokizdjw9ToHZ09vmKZxaVqe)
