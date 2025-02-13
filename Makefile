@@ -18,3 +18,6 @@ brain-calc: #Запуск игры с вычислениями
 
 brain-gcd: #Запуск игры с поиском наибольшего общего делителя
 		node bin/brain-gcd.js
+
+brain-progression: #Запуск игры поисК пропущенного значения в прогрессии
+		node bin/brain-progression.js
