@@ -9,3 +9,7 @@
 ### Asclinema for BRAIN-EVEN:
 
 [![Asciinema recording](https://asciinema.org/a/Chnu4nskqdZGfyeKDNxSw6W67.png)](https://asciinema.org/a/Chnu4nskqdZGfyeKDNxSw6W67)
+
+### Asclinema for BRAIN-CALC:
+
+[![Asciinema recording](https://asciinema.org/a/mOipi8ZFhz8g4OyEADz2cAJcg.png)](https://asciinema.org/a/mOipi8ZFhz8g4OyEADz2cAJcg)
