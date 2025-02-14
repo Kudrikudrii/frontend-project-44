@@ -19,5 +19,8 @@ brain-calc: #Запуск игры с вычислениями
 brain-gcd: #Запуск игры с поиском наибольшего общего делителя
 		node bin/brain-gcd.js
 
-brain-progression: #Запуск игры поисК пропущенного значения в прогрессии
+brain-progression: #Запуск игры поиск пропущенного значения в прогрессии
 		node bin/brain-progression.js
+
+brain-prime: #Запуск игры простое ли число
+		node bin/brain-prime.js
