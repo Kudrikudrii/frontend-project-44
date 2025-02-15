@@ -12,15 +12,19 @@
 
 ## How to install games
 
-# Open the console and run the command to clone the repository:
+### Open the console and run the command to clone the repository:
 
 `git clone git@github.com:Kudrikudrii/frontend-project-44.git`
 
-# Run the command to install project:
+### Run the command to install project:
 
+```bash
 1. `make install`
+```
+
 2. `make publish`
 3. `npm link`
+4. ### Have fun :smile:
 
 ### Asclinema for BRAIN-EVEN:
 
