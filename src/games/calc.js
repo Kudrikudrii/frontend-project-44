@@ -1,7 +1,7 @@
-import getRandomNumber from "../utils/getRandomNumber.js";
-import getRandomOperator from "../utils/getRandomOperator.js";
-import calculateExpression from "../utils/calculateExpression.js";
-import baseOfGame from "../index.js";
+import getRandomNumber from '../utils/getRandomNumber.js';
+import getRandomOperator from '../utils/getRandomOperator.js';
+import calculateExpression from '../utils/calculateExpression.js';
+import baseOfGame from '../index.js';
 
 const generateQuestionAndAnswer = () => {
   const num1 = getRandomNumber(1, 10);
@@ -14,7 +14,7 @@ const generateQuestionAndAnswer = () => {
 };
 
 const gameCalc = () => {
-  const gameRules = `What is the result of the expression?`;
+  const gameRules = 'What is the result of the expression?';
   baseOfGame(gameRules, generateQuestionAndAnswer);
 };
 
