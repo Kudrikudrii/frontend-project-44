@@ -6,6 +6,22 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a35abc9ec688c1f8d989/maintainability)](https://codeclimate.com/github/Kudrikudrii/frontend-project-44/maintainability)
 
+### BRAIN-GAMES ARE SIMPLE TERMINAL GAMES
+
+---
+
+## How to install games
+
+# Open the console and run the command to clone the repository:
+
+`git clone git@github.com:Kudrikudrii/frontend-project-44.git`
+
+# Run the command to install project:
+
+1. `make install`
+2. `make publish`
+3. `npm link`
+
 ### Asclinema for BRAIN-EVEN:
 
 [![Asciinema recording](https://asciinema.org/a/Chnu4nskqdZGfyeKDNxSw6W67.png)](https://asciinema.org/a/Chnu4nskqdZGfyeKDNxSw6W67)
