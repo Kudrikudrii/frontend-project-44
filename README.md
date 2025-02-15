@@ -21,3 +21,7 @@
 ### Asclinema for BRAIN-PROGRESSION:
 
 [![Asciinema recording](https://asciinema.org/a/MGmdCg0V4z5w56Jx4H8G6L9Gb.png)](https://asciinema.org/a/MGmdCg0V4z5w56Jx4H8G6L9Gb)
+
+### Asclinema for BRAIN-PRIME:
+
+[![Asciinema recording](https://asciinema.org/a/sDZoz7DlcBeyd4Hy7kyhmMo15.png)](https://asciinema.org/a/sDZoz7DlcBeyd4Hy7kyhmMo15)
