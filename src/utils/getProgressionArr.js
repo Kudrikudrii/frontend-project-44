@@ -1,4 +1,4 @@
-import getRandomNumber from ".//getRandomNumber.js";
+import getRandomNumber from './/getRandomNumber.js';
 
 const getProgressionArr = () => {
   const startNumber = getRandomNumber(5, 20);
