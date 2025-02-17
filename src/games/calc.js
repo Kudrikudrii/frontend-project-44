@@ -26,7 +26,7 @@ const generateRound = () => {
 };
 
 const runGameCalc = () => {
-  const description = `What is the result of the expression?`;
+  const description = 'What is the result of the expression?';
   baseOfGame(description, generateRound);
 };
 

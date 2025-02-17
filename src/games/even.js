@@ -11,7 +11,7 @@ const generateRound = () => {
 };
 
 const runGameEvenOrOdd = () => {
-  const description = `Answer "yes" if the number is even, otherwise answer "no".`;
+  const description = 'Answer "yes" if the number is even, otherwise answer "no".';
   baseOfGame(description, generateRound);
 };
 

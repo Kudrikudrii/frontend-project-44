@@ -10,7 +10,7 @@ const generateRound = () => {
 };
 
 const runGamePrime = () => {
-  const description = `Answer "yes" if given number is prime. Otherwise answer "no".`;
+  const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
   baseOfGame(description, generateRound);
 };
 

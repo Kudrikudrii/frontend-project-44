@@ -17,7 +17,7 @@ const generateRound = () => {
 };
 
 const runGameProgression = () => {
-  const description = `What number is missing in the progression?`;
+  const description = 'What number is missing in the progression?';
   baseOfGame(description, generateRound);
 };
 
