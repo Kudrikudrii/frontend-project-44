@@ -1,18 +1,18 @@
 import getRandomNumber from '../utils/getRandomNumber.js';
 import baseOfGame from '../index.js';
 
-const generateQuestionAndAnswer = () => {
+const generateRound = () => {
   const number = getRandomNumber(1, 10);
-  const question = `${number}`;
+  const question = String(number);
   const isEven = number % 2 === 0;
-  const correctAnswer = isEven ? 'yes' : 'no';
+  const answer = isEven ? 'yes' : 'no';
 
-  return [question, correctAnswer];
+  return [question, answer];
 };
 
-const gameEvenOrOdd = () => {
-  const gameRules = 'Answer "yes" if the number is even, otherwise answer "no".';
-  baseOfGame(gameRules, generateQuestionAndAnswer);
+const runGameEvenOrOdd = () => {
+  const description = `Answer "yes" if the number is even, otherwise answer "no".`;
+  baseOfGame(description, generateRound);
 };
 
-export default gameEvenOrOdd;
+export default runGameEvenOrOdd;
