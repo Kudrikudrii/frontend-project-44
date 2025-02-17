@@ -1,8 +1,8 @@
-const getGcdNumber = (num1, num2) => {
-  if (num2 === 0) {
-    return num1;
+const getGcdNumber = (number1, number2) => {
+  if (number2 === 0) {
+    return number1;
   }
-  return getGcdNumber(num2, num1 % num2);
+  return getGcdNumber(number2, number1 % number2);
 };
 
 export default getGcdNumber;
